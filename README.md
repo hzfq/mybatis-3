@@ -23,4 +23,4 @@ Essentials
 
 ## MyBatis源码学习
 
-源码学习版本基于tag mybatis-3.5.1创建branch hzfq-mybatis-3.5.1,所有笔记及注释位于该分支下
+源码学习版本基于tag mybatis-3.5.1创建branch hzfq,所有笔记及注释位于该分支下
