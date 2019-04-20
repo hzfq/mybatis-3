@@ -20,3 +20,7 @@ Essentials
 * [See the docs](http://mybatis.github.io/mybatis-3)
 * [Download Latest](https://github.com/mybatis/mybatis-3/releases)
 * [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
+
+## MyBatis源码学习
+
+1.源码学习版本基于tag mybatis-3.5.1创建branch hzfq-mybatis-3.5.1
